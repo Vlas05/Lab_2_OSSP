@@ -1,1 +1,2 @@
-# Lab 2 OSSP
+# Lab_2_OSSP
+Second lab OSSP
